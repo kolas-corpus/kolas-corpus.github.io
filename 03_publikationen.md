@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publikationen"
-permalink: https://kolas-corpus.github.io/publikationen
+permalink: publikationen
 ---
 
 **Andresen, Melanie** & **Dagmar Knorr**. 2021. Exploring the Use of the Pronoun I in German Academic Texts with Machine Learning. In Ralf H. Reussner, Anne Koziolek & Robert Heinrich (eds.), INFORMATIK 2020: Back to the Future (Lecture Notes in Informatics), 1327–1333. Bonn: Gesellschaft für Informatik. https://dx.doi.org/10.18420/inf2020_124.

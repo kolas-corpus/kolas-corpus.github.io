@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Korpuserstellung"
-permalink: https://kolas-corpus.github.io/korpuserstellung
+permalink: korpuserstellung
 ---
 
 ## Datenerhebung

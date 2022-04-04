@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kontakt"
-permalink: https://kolas-corpus.github.io/kontakt
+permalink: kontakt
 ---
 
 **Dr. Dagmar Knorr** <br/>

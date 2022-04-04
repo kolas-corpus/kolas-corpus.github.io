@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Korpusbeschreibung"
-permalink: https://kolas-corpus.github.io/korpusbeschreibung
+permalink: korpusbeschreibung
 ---
 
 KoLaS enthält 454 Texte aus dem Zeitraum September 2011 bis Dezember 2013. Die Texte stammen von insgesamt 49 unterschiedlichen Ratsuchenden. Die Anzahl der Texte oder Textversionen pro Ratsuchenden liegt im Durchschnitt bei 9,27 (schwarze Linie), ist aber großen Schwankungen unterworfen, wie die nachfolgende Abbildung "Anzahl Texte pro Ratsuchender/m" verdeutlicht.

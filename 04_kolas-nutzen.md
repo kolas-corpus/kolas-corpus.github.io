@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "KoLaS nutzen"
-permalink: https://kolas-corpus.github.io/kolas-nutzen
+permalink: kolas-nutzen
 ---
 
 
