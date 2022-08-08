@@ -14,6 +14,7 @@ dagmar.knorr@leuphana.de <br/>
  <br/>
 **Dr. Melanie Andresen** <br/>
 Institut für Maschinelle Sprachverarbeitung <br/>
+Universität Stuttgart <br/>
 Pfaffenwaldring 5b  <br/>
 70569 Stuttgart  <br/>
 melanie.andresen@ims.uni-stuttgart.de
